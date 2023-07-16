@@ -14,5 +14,6 @@ members:
   - reset
   - Gamora
   - Nebula
+  - Stash
 
   fetch: this
